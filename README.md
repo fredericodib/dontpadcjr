@@ -22,8 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-´´´ruby
+```ruby
 def oi
   return nil
 end
-´´´
+```
